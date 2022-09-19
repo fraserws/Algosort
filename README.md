@@ -25,10 +25,10 @@
 <div align="center">
 
 
-  <h1 align="center">B.lnk</h1>
+  <h1 align="center">Algosort</h1>
 
   <p align="center">
-    a simple and speedy url shortener
+    An sorting-algorithm visualiser
     <br />
     <a href="https://Algosort.fraserws.dev/">View Demo</a>
     ·
