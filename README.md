@@ -32,9 +32,9 @@
     <br />
     <a href="https://Algosort.fraserws.dev/">View Demo</a>
     ·
-    <a href="https://Algosort.com/fraserws/blnk/issues">Report Bug</a>
+    <a href="https://github.com/fraserws/algosort/issues">Report Bug</a>
     ·
-    <a href="https://Algosort.com/fraserws/blnk/issues">Request Feature</a>
+    <a href="https://Algosort.com/fraserws/algosort/issues">Request Feature</a>
   </p>
 </div>
 
